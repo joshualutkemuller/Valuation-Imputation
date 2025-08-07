@@ -1,0 +1,10 @@
+Date,Benchmark,Metric,Value
+2025-08-05,S&P 500,EPS Trailing,225.0
+2025-08-05,Russell 2000,EPS Trailing,145.0
+2025-08-05,FTSE All‑World,EPS Trailing,14.0
+2025-08-05,S&P 500,EPS Forward 1Y,312.0
+2025-08-05,Russell 2000,EPS Forward 1Y,164.0
+2025-08-05,FTSE All‑World,EPS Forward 1Y,18.0
+2025-08-05,S&P 500,EPS Forward 2Y,340.0
+2025-08-05,Russell 2000,EPS Forward 2Y,180.0
+2025-08-05,FTSE All‑World,EPS Forward 2Y,20.0

@@ -1,0 +1,51 @@
+original,new_name
+date,Date
+benchmark_id,Benchmark Id
+eps_trailing,Eps Trailing
+pe_trailing,P/E Trailing
+eps_fwd_1y,Eps Fwd 1Y
+pe_fwd_1y,P/E Fwd 1Y
+eps_fwd_2y,Eps Fwd 2Y
+pe_fwd_2y,P/E Fwd 2Y
+pe_trailing_avg_1y,P/E Trailing Avg 1Y
+pe_trailing_std_1y,P/E Trailing Std 1Y
+pe_trailing_avg_3y,P/E Trailing Avg 3Y
+pe_trailing_std_3y,P/E Trailing Std 3Y
+pe_trailing_avg_5y,P/E Trailing Avg 5Y
+pe_trailing_std_5y,P/E Trailing Std 5Y
+pe_trailing_avg_7y,P/E Trailing Avg 7Y
+pe_trailing_std_7y,P/E Trailing Std 7Y
+pe_trailing_avg_10y,P/E Trailing Avg 10Y
+pe_trailing_std_10y,P/E Trailing Std 10Y
+pe_trailing_avg_15y,P/E Trailing Avg 15Y
+pe_trailing_std_15y,P/E Trailing Std 15Y
+pe_trailing_avg_20y,P/E Trailing Avg 20Y
+pe_trailing_std_20y,P/E Trailing Std 20Y
+pe_fwd_1y_avg_1y,P/E Fwd 1Y Avg 1Y
+pe_fwd_1y_std_1y,P/E Fwd 1Y Std 1Y
+pe_fwd_1y_avg_3y,P/E Fwd 1Y Avg 3Y
+pe_fwd_1y_std_3y,P/E Fwd 1Y Std 3Y
+pe_fwd_1y_avg_5y,P/E Fwd 1Y Avg 5Y
+pe_fwd_1y_std_5y,P/E Fwd 1Y Std 5Y
+pe_fwd_1y_avg_7y,P/E Fwd 1Y Avg 7Y
+pe_fwd_1y_std_7y,P/E Fwd 1Y Std 7Y
+pe_fwd_1y_avg_10y,P/E Fwd 1Y Avg 10Y
+pe_fwd_1y_std_10y,P/E Fwd 1Y Std 10Y
+pe_fwd_1y_avg_15y,P/E Fwd 1Y Avg 15Y
+pe_fwd_1y_std_15y,P/E Fwd 1Y Std 15Y
+pe_fwd_1y_avg_20y,P/E Fwd 1Y Avg 20Y
+pe_fwd_1y_std_20y,P/E Fwd 1Y Std 20Y
+pe_fwd_2y_avg_1y,P/E Fwd 2Y Avg 1Y
+pe_fwd_2y_std_1y,P/E Fwd 2Y Std 1Y
+pe_fwd_2y_avg_3y,P/E Fwd 2Y Avg 3Y
+pe_fwd_2y_std_3y,P/E Fwd 2Y Std 3Y
+pe_fwd_2y_avg_5y,P/E Fwd 2Y Avg 5Y
+pe_fwd_2y_std_5y,P/E Fwd 2Y Std 5Y
+pe_fwd_2y_avg_7y,P/E Fwd 2Y Avg 7Y
+pe_fwd_2y_std_7y,P/E Fwd 2Y Std 7Y
+pe_fwd_2y_avg_10y,P/E Fwd 2Y Avg 10Y
+pe_fwd_2y_std_10y,P/E Fwd 2Y Std 10Y
+pe_fwd_2y_avg_15y,P/E Fwd 2Y Avg 15Y
+pe_fwd_2y_std_15y,P/E Fwd 2Y Std 15Y
+pe_fwd_2y_avg_20y,P/E Fwd 2Y Avg 20Y
+pe_fwd_2y_std_20y,P/E Fwd 2Y Std 20Y
